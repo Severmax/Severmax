@@ -39,9 +39,9 @@
 ---  
 
 ### 📊 Статистика GitHub  
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_GITHUB_НІКНЕЙМ&show_icons=true&theme=radical)  
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Severmax&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВІЙ_GITHUB_НІКНЕЙМ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severmax&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---  
 
