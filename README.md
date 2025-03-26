@@ -46,4 +46,4 @@
 ---  
 
 📫 Зв’язатися зі мною:  
-[Telegram](https://t.me/) | [Email] (severenko.maxim@gmail.com)
+[Telegram](https://t.me/) | [Email - (severenko.maxim@gmail.com)] 
